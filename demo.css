@@ -1,0 +1,994 @@
+.container{
+    width:1530px;
+    height:auto;
+    background-color: white;
+    border:2px solid white;
+    position:absolute;
+   margin-top: 0; 
+
+}
+header{
+    width:1530px;
+    height:500px;
+}
+img{
+  
+  
+   min-height: 400px;
+ 
+   background-position: center;
+   
+   background-size: cover;
+   
+   position: relative;
+}
+
+.navbar {
+    overflow: hidden;
+   position: absolute;
+   top: 0;
+   left:1000px;
+   cursor: pointer;
+   
+
+  }
+  
+  .navbar p {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 25px;
+    color:white;
+    
+  }
+  
+  .navbar p:hover {
+    color: blue;
+    
+  }
+  .text{
+    width:350px;
+    height:250px;
+    position:absolute;
+    margin-top:-500px;
+    left:150px;
+    color:rgb(3, 42, 42);
+    font-size: 50px;
+  }
+  .text:hover{
+    color: orangered;
+  }
+  .serve{
+    width:930px;
+    height:700px;
+    background-color: white;
+    font-size: 30px;
+    padding-left:600px;
+    padding-top: 20px;
+    margin-top:-3.5px;
+    
+    
+  }
+.block1{
+    width:350px;
+    height:240px;
+    border: 2px solid white;
+margin-left:-450px;
+background-color: white;
+
+
+}
+.logo{
+text-align:center;
+}
+.heading{
+text-align: center;
+font-family: sans-serif;
+}
+  .pg{
+    text-align:center;
+    font-size: 20px;
+    
+  }
+  .block2{
+    width:350px;
+    height:240px;
+    border: 2px solid white;
+margin-left:410px;
+background-color: white;
+margin-top: -157px;
+}
+.logo{
+  width:30px;
+
+text-align:center;
+border:2px solid black;
+border-radius: 4px;
+}
+.logo:hover{
+  color:orangered;
+}
+.heading{
+text-align: center;
+font-family: sans-serif;
+}
+
+  .pg{
+    text-align:center;
+    font-size: 20px;
+    
+  }
+  .block3{
+    width:350px;
+    height:240px;
+    border: 2px solid white;
+margin-left:410px;
+background-color: white;
+margin-top: -157px;
+}
+.logo{
+text-align:center;
+}
+.heading{
+text-align: center;
+font-family: sans-serif;
+}
+  .pg{
+    text-align:center;
+    font-size: 20px;
+  }
+  .block4{
+    width:350px;
+    height:240px;
+    border: 2px solid white;
+margin-left:-825px;
+background-color: white;
+margin-top: 120px;
+}
+.logo{
+text-align:center;
+}
+.heading{
+text-align: center;
+font-family: sans-serif;
+}
+  .pg{
+    text-align:center;
+    font-size: 20px;
+  }
+  .block5{
+    width:350px;
+    height:240px;
+    border: 2px solid white;
+margin-left:410px;
+background-color: white;
+margin-top: -160px;
+}
+.logo{
+text-align:center;
+}
+.heading{
+text-align: center;
+font-family: sans-serif;
+}
+  .pg{
+    text-align:center;
+    font-size: 20px;
+  }
+  .block6{
+    width:350px;
+    height:240px;
+    border: 2px solid white;
+margin-left:410px;
+background-color: white;
+margin-top: -160px;
+}
+.logo{
+text-align:center;
+}
+.heading{
+text-align: center;
+font-family: sans-serif;
+}
+  .pg{
+    text-align:center;
+    font-size: 20px;
+  }
+  .info{
+    width:1525px;
+    height:auto;
+    border:2px solid white;
+    margin-left: -565px;
+    margin-top:45px;
+    background-color: black;
+  }
+  
+  .textw{
+    width:692px;
+    height:580px;
+    border:2px solid yellow;
+    margin-left:688px;
+    text-align:center;
+    word-spacing:5px ;
+    color:yellow;
+
+    
+  }
+  .web{
+    margin-top:40px;
+    margin-left: -270px;
+  }
+  
+  .textw2{
+    width:692px;
+    height:500px;
+    border:2px solid aqua;
+    margin-left:418px;
+    text-align:center;
+    word-spacing:5px ;
+    margin-top:30px;
+    color:aqua;
+  }
+
+  .textw3{
+    width:692px;
+    height:500px;
+    border:2px solid white;
+    margin-left:418px;
+    text-align:center;
+    word-spacing:5px ;
+    color:white;
+    margin-top:30px;
+    
+  }
+  .mid{
+    width:1530px;
+    height:auto;
+    border:2px solid white;
+    background-color: teal;
+    margin-top: 10px;
+    color:yellow;
+  }
+
+  .detail{
+    width:800px;
+    height:250px;
+    text-align :center;
+    margin-top:60px;
+    margin-left:400px;
+color:white;
+  }
+  .price{
+    width:1520px;
+    height:auto;
+    text-align: center;
+    margin-top:-35px;
+
+  }
+  .label{
+font-size: 25px;
+text-align: center;
+margin-top:-30px;
+  }
+  .box1{
+    width:280px;
+    height:300px;
+    border:2px solid black;
+    margin-left:250px;
+    margin-top:50px;
+    background-color: rgba(1, 40, 40, 0.999);
+  }
+  .in1{
+    width:280px;
+    height:50px;
+    margin-left:-2px;
+    border:2px solid black;
+    margin-top:100px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: rgb(253, 150, 6);
+  }
+  .box2{
+    width:280px;
+    height:300px;
+    border:2px solid black;
+    margin-left:650px;
+    margin-top:-300px;
+    background-color: rgba(1, 40, 40, 0.999);
+  }
+  .in2{
+    width:280px;
+    height:50px;
+    margin-left:-1.5px;
+    border:2px solid black;
+    margin-top:100px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: rgb(253, 150, 6);
+  }
+  .box3{
+    width:280px;
+    height:300px;
+    border:2px solid black;
+    margin-left:1050px;
+    margin-top:-300px;
+    background-color: rgba(1, 40, 40, 0.999);
+  }
+  .in3{
+    width:280px;
+    height:50px;
+    margin-left:-2px;
+    border:2px solid black;
+    margin-top:100px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: rgb(253, 150, 6);
+  }
+  .but3{
+    margin-top: 5px;
+  }
+  .price{
+    background-color: white;
+  }
+  .plans
+  {
+    text-align: center;
+    font-size:25px;
+    cursor:pointer;
+    margin-top:30px;
+  }
+  .campaign{
+    width:1530px;
+    background-color: rgba(1, 1, 58, 0.973);
+    height:200px;
+    border:2px solid black;
+    margin-top:0;
+    text-align: center;
+
+  }
+  .button{
+    
+    border:2px solid black;
+margin-right: 500px;
+   }
+   button:hover{
+    cursor: pointer;
+   }
+   .bar {
+    overflow: hidden;
+   left:1000px;
+   cursor: pointer;
+   background-color: black;
+
+
+  }
+  .bar p {
+    float: left;
+    padding: 14px 16px;
+    font-size: 25px;
+    color:white;
+    text-align:left;
+   
+    
+  }
+  .bar p:hover{
+    color:orangered;
+  }
+  .register{
+    color:black;
+    font-size:20px;
+    margin-left:1120px;
+    margin-top:-60px;
+    color:white;
+  }
+.plans{
+  background-color: white;
+}
+
+/* services.css */
+.serve{
+    width:930px;
+    height:2000px;
+    background-color: lightgray;
+    font-size: 30px;
+    padding-left:600px;
+    padding-top: 55px;
+    margin-top:-3.5px;
+    color:rgb(0, 0, 255);
+    
+  }
+.block1{
+    width:350px;
+    height:240px;
+    border: 2px solid white;
+margin-left:-450px;
+color:black;
+}
+.logo{
+text-align:center;
+}
+.heading{
+text-align: center;
+font-family: sans-serif;
+}
+  .pg{
+    text-align:center;
+    font-size: 20px;
+    
+  }
+  .block2{
+    width:350px;
+    height:240px;
+    border: 2px solid white;
+margin-left:410px;
+margin-top: -157px;
+color:black;
+}
+.logo{
+  width:30px;
+
+text-align:center;
+border:2px solid black;
+border-radius: 4px;
+}
+.logo:hover{
+  color:orangered;
+}
+.heading{
+text-align: center;
+font-family: sans-serif;
+}
+
+  .pg{
+    text-align:center;
+    font-size: 20px;
+    
+  }
+  .block3{
+    width:350px;
+    height:240px;
+    border: 2px solid white;
+margin-left:410px;
+margin-top: -157px;
+color:black;
+}
+.logo{
+text-align:center;
+}
+.heading{
+text-align: center;
+font-family: sans-serif;
+}
+  .pg{
+    text-align:center;
+    font-size: 20px;
+  }
+  .block4{
+    width:350px;
+    height:240px;
+    border: 2px solid white;
+margin-left:-825px;
+margin-top: 120px;
+color:black;
+}
+.logo{
+text-align:center;
+}
+.heading{
+text-align: center;
+font-family: sans-serif;
+}
+  .pg{
+    text-align:center;
+    font-size: 20px;
+  }
+  .block5{
+    width:350px;
+    height:240px;
+    border: 2px solid white;
+margin-left:410px;
+margin-top: -180px;
+color:black
+}
+.logo{
+text-align:center;
+}
+.heading{
+text-align: center;
+font-family: sans-serif;
+}
+  .pg{
+    text-align:center;
+    font-size: 20px;
+  }
+  .block6{
+    width:350px;
+    height:240px;
+    border: 2px solid white;
+margin-left:410px;
+margin-top: -180px;
+color:black;
+}
+.logo{
+text-align:center;
+}
+.heading{
+text-align: center;
+font-family: sans-serif;
+}
+
+  .pg{
+    text-align:center;
+    font-size: 20px;
+  }
+  .data{
+    width:1530px;
+    margin-left: -565px;
+    margin-top: 100px;
+    background-color: white;
+    border: 2px solid white;
+  }
+  .SEO
+  {
+    width:1200px;
+    height:auto;
+    margin-left:150px;
+    margin-top:80px;
+    color:rgb(16, 3, 117);
+    background-color: lightgray;
+    image-rendering:smooth;
+    text-align: center;
+
+
+  }
+
+ 
+  .PPC
+  {
+    width:1200px;
+    height:auto;
+    margin-left:150px;
+    margin-top:50px;
+    color:rgb(16, 3, 117);
+    background-color: lightgray;
+    image-rendering:smooth;
+    text-align: center;
+
+
+
+  }
+  .SMO{
+    width:1200px;
+    height:auto;
+    margin-left:150px;
+    margin-top:50px;
+    color:rgb(16, 3, 117);
+    background-color: lightgray;
+    image-rendering:smooth;
+    text-align: center;
+
+
+
+  }
+  
+  .Web{
+    width:1200px;
+    height:auto;
+    margin-left:150px;
+    margin-top:50px;
+    color:rgb(16, 3, 117);
+    background-color: lightgray;
+    image-rendering:smooth;
+    text-align: center;
+
+  }
+  
+  
+  
+   .navigate {
+    overflow: hidden;
+   left:1000px;
+   cursor: pointer;
+   background-color: black;
+
+
+  }
+  .navigate{
+    margin-top: 0px;
+  }
+  .navigate p {
+    float: left;
+    padding: 14px 16px;
+    font-size: 25px;
+    color:white;
+    text-align:left;
+   
+    
+  }
+  .navigate p:hover{
+    color:orangered;
+  }
+  .register1{
+    color:black;
+    font-size:20px;
+    margin-left:1120px;
+    margin-top:-60px;
+    color:white;
+  }
+  .navigationbar {
+    overflow: hidden;
+   position: absolute;
+   top: 0;
+   left:1000px;
+   cursor: pointer;
+   
+
+  }
+  
+  .navigationbar p {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 25px;
+    color:white;
+    
+  }
+  
+  .navigationbar p:hover {
+    color: blue;
+    
+  }
+  
+/* about page */
+
+.navigatebar {
+  overflow: hidden;
+ position: absolute;
+ top: 0;
+ left:1000px;
+ cursor: pointer;
+ 
+
+}
+
+.navigatebar p {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 25px;
+  color:white;
+  
+}
+.navigate{
+  margin-top: 80px;
+}
+.mainabout{
+  width:1500px;
+  height: 1400px;
+  border:2px solid lightgray;
+ background-color: lightgray;
+}
+.aboutmain{
+  width:1500px;
+  height:600px;
+  border:2px solid lightgray;
+  background-color: lightgray;
+}
+.hdg{
+  width:780px;
+  height:280px;
+  margin-top: 80px;
+  margin-left:380px ;
+  text-align: justify;
+
+}
+#abt{
+  margin-top: 100px;
+  margin-left: 680px;
+}
+
+
+ .b1{
+  width: 500px;
+  height: 80px;
+  background-color: white;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 200px;
+  
+ }
+ .b2{
+  width: 500px;
+  height: 80px;
+  background-color: white;
+  text-align: center;
+  margin-left: 900px;
+  margin-top: -95px;
+ }
+ .b3{
+  width: 500px;
+  height: 80px;
+  background-color: white;
+  text-align: center;
+  margin-left: 200px;
+  margin-top: 100px;
+ }
+ .b4{
+  width: 500px;
+  height: 80px;
+  background-color: white;
+  text-align: center;
+  margin-top: -95px;
+  margin-left: 900px;
+ }
+ .power{
+  width: 500px;
+  height: 200px;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 500px;
+
+ }
+ .take{
+  width: 300px;
+  height: 50px;
+  text-align: center;
+  margin-top: -60px;
+  margin-left: 620PX;
+ }
+ .navigate{
+  margin-top: 60px;
+}
+ 
+
+  
+  
+  /* contact page */
+  .cig{
+    margin-left: 750px;
+    margin-top: -480px;
+  }
+  .mc{
+    width:1530px;
+    height:1800px;
+    border:2px solid lightgrey;
+    background-color: lightgray;
+  }
+  .navigatebar {
+    overflow: hidden;
+   position: absolute;
+   top: 0;
+   left:1000px;
+   cursor: pointer;
+   
+  
+  }
+  .contact_details{
+    width:800px;
+    height:700px;
+    margin-top:180px;
+    text-align: center;
+    margin-left: 320px;
+    font-size:28px;
+    background-color: coral;
+    color:black;
+  }
+  
+  .navigatebar p {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 25px;
+    color:white;
+    
+  }
+  .navigate{
+    margin-top: 80px;
+  }
+  
+ 
+  .add{
+    width:600px;
+    height:500px;
+    margin-left: 80px;
+    margin-top: -400px;
+    font-size:25px;
+    color:white;
+  border:3px solid lightgray;
+  }
+  .maincontact{
+    width:1530px;
+    height:1600px;
+    border:2px solid lightgray;
+    background-color: lightgray;
+  }
+  .boxes{
+    width:500px;
+    height:400px;
+    color:black;
+    margin-left: 550px;
+    margin-top: 200px;
+    text-align: center;
+  }
+  .subboxes{
+    text-align: center;
+  }
+  .locate{
+    margin-left: 80px;
+    margin-top: -80px;
+  }
+  .locate1{
+    margin-left: 250px;
+    color:black;
+    font-size: 30px;
+  }
+  .forms{
+    width: 480px;
+    height:480px;
+    border:2px solid black;
+    margin-left: 980px;
+    margin-top:-500px;
+    background-color: white;
+  }
+  form > div {
+    margin-top: 18px;
+    position: relative;
+    margin-left: 20px;
+  }
+  
+  form > div > input {
+    width: 400px;
+    border: 1px solid black;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: -50px;
+  }
+  
+  form > div > span.error {
+      display: none;
+      font-size: 20px;
+      position: absolute;
+
+  }
+  form > div >input:invalid:not(:focus):not(:placeholder-shown) ~ .error {
+      display: block;
+      color: red;
+  }
+  
+  form input[type="submit"] {
+    display: block;
+    width: 120px;
+    margin-top: 30px;
+    background: slategray;
+    color: white;
+    padding:13px;
+    margin-left: 180px;
+    font-size: 25px;
+    cursor: pointer;
+  }
+.but{
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+.mains{
+  width:1500px;
+  height: 900px;
+  border:2px solid lightcyan;
+  background-color: lightcyan;
+}
+.seoig{
+  margin-left: 420px;
+ margin-top: 100px;
+ position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+  }
+  
+  @keyframes example {
+    0%   {background-color:lightcyan; left:0px; top:0px;}
+    25%  {background-color:lightcyan; left:100px; top:0px;}
+    50%  {background-color:lightcyan; left:100px; top:100px;}
+    75%  {background-color:lightcyan; left:0px; top:100px;}
+    100% {background-color:lightcyan; left:0px; top:0px;}
+  }
+  
+
+.seodata{
+  text-align: center;
+  color:rgb(9, 9, 84);
+}
+
+.seoname{
+  text-align: center;
+  color:rgb(9, 9, 84);
+}
+
+.mainp{
+  width:1500px;
+  height: 1000px;
+  border:2px solid lightcoral;
+  background-color: lightcoral;
+}
+.ppcig{
+  margin-left: 420px;
+ margin-top: 100px;
+ position: relative;
+    animation-name: example2;
+    animation-duration: 4s;
+  }
+  
+  @keyframes example2 {
+    0%   {background-color:lightcoral; left:0px; top:0px;}
+    25%  {background-color:lightcoral; left:100px; top:0px;}
+    50%  {background-color:lightcoral; left:100px; top:100px;}
+    75%  {background-color:lightcoral; left:0px; top:100px;}
+    100% {background-color:lightcoral; left:0px; top:0px;}
+  }
+  
+
+.ppcdata{
+  text-align: center;
+  color:darkred;
+}
+.ppcname{
+  text-align: center;
+  color:darkred;
+}
+
+.webd{
+  width:1500px;
+  height: 1000px;
+  border:2px solid lightgreen;
+  background-color: lightgreen;
+}
+.webig{
+  margin-left: 420px;
+ margin-top: 100px;
+ position: relative;
+    animation-name: example3;
+    animation-duration: 4s;
+  }
+  
+  @keyframes example3 {
+    0%   {background-color:lightgreen; left:0px; top:0px;}
+    25%  {background-color:lightgreen; left:100px; top:0px;}
+    50%  {background-color:lightgreen; left:100px; top:100px;}
+    75%  {background-color:lightgreen; left:0px; top:100px;}
+    100% {background-color:lightgreen; left:0px; top:0px;}
+  }
+  
+
+.webdata{
+  text-align: center;
+  color: blue;
+}
+.webname{
+  text-align: center;
+  color:blue;
+}
+#pg{
+  text-align: justify;
+}
+#pay{
+  text-align: justify;
+}
+#engine{
+  text-align: justify;
+}
+#social{
+  text-align: justify;
+}
+#des{
+  text-align: justify;
+}
+
+.socialmedia{
+margin-left: 950px;
+margin-top: 30px;
+background-color: lightgray;
+width:200px;
+display: flex;
+justify-content: space-between;
+}
